@@ -1,0 +1,6 @@
+@Bank.Cards.Api_HostAddress = https://localhost:7000
+
+GET {{Bank.Cards.Api_HostAddress}}/users/User1/cards/Card11
+Accept: application/json
+
+###
